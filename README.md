@@ -5,7 +5,7 @@ I'm a high school student living in Cambridge, UK who mostly codes small-scale p
 ## Basic Info
 - Pronouns: they/them
 - Location: United Kingdom
-- Contact: `Pikzel#3553` on Discord
+- Contact: `danjlewis#0001` on Discord
 
 ## My Experience
 - 7 years Python experience
